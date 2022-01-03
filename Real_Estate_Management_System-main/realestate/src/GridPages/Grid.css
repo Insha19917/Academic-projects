@@ -1,0 +1,27 @@
+.body{
+    align-items: center;
+    margin-right: auto;
+    margin-right: auto;
+}
+.row{
+    margin-right: auto;
+    margin-right: auto;
+}
+.col{
+    margin-right: auto;
+    margin-right: auto;
+}
+.container{
+    align-items: center;
+    justify-content: center;
+    margin-right: auto;
+    margin-right: auto;
+    position: absolute;
+
+
+    
+}
+
+.card-body{
+    display: block;
+}

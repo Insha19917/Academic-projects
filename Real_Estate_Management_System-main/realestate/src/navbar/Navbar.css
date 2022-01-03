@@ -1,0 +1,22 @@
+.navcontainer{
+    width: 100%;
+    padding:35px;
+    
+    background-color:#2A3166;
+    /*box-shadow: 5px 10px 8px #888888 ;*/
+}
+.rightBar{
+    padding-left: 70em;
+}
+.right{
+    font-size: large;
+    color: aliceblue;
+    text-decoration: none;
+    padding-top: 15px;
+    
+    padding-right: 33px;
+    
+}
+.right:hover{
+    color: #EE7879;
+}

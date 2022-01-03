@@ -1,0 +1,39 @@
+body{
+    background-color:#CAE7DF;
+    font-family:sans-serif;
+}
+h1{
+    padding-bottom: 0.5em;
+    margin-top: 0em;
+    border-top: 0em;
+}
+
+.containerb{
+    display: inline-block;
+    padding-right: 4em;
+    padding-left: 4em;
+    padding-top: 3em;
+    padding-bottom: 4em;
+    margin-left: 38em;
+    border-radius: 0.1em;
+    background-color: #F4ABAA;
+    margin-top: 130px;
+    text-align: center;
+    box-shadow: 5px 10px 8px #888888 ;
+}
+
+.textfieldb{
+    height: 2.3em;
+    width: 18em;
+    margin: 0.2em;
+    font-size:small;
+}
+.buttonfieldb{
+    height: 3em;
+    width: 18em;
+    margin-top: 1em;
+    background-color: #2A3166;
+    color: aliceblue;
+    border-radius: 0.5em;
+   
+}
